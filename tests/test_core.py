@@ -1,4 +1,4 @@
-from .. import compute
+from freeda import compute
 
 
 def test_compute():
