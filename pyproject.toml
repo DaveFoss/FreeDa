@@ -4,7 +4,7 @@ requires = [
 ]
 
 [tool.ruff]
-extend-exclude = ["static", "ci"]
+extend-exclude = ["static", "ci", "setup.py"]
 line-length = 79
 src = ["src", "tests"]
 target-version = "py38"
