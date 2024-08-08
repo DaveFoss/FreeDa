@@ -4,8 +4,8 @@ requires = [
 ]
 
 [tool.ruff]
-extend-exclude = ["static", "ci/templates"]
-line-length = 140
+extend-exclude = ["static", "ci"]
+line-length = 79
 src = ["src", "tests"]
 target-version = "py38"
 
@@ -52,3 +52,7 @@ force-single-line = true
 
 [tool.ruff.format]
 quote-style = "double"
+
+[tool.black]
+line-length = 79
+target-version = ["py311"]
