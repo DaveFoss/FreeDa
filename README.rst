@@ -13,8 +13,9 @@ Overview
       - |github-actions| |coveralls| |codecov|
     * - package
       - |version| |wheel| |supported-versions| |supported-implementations| |commits-since|
-.. |docs| image:: https://readthedocs.org/projects/FreeDa/badge/?style=flat
-    :target: https://readthedocs.org/projects/FreeDa/
+
+.. |docs| image:: https://readthedocs.org/projects/freeda/badge/?version=latest
+    :target: https://freeda.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. |github-actions| image:: https://github.com/DaveFoss/FreeDa/actions/workflows/github-actions.yml/badge.svg
@@ -28,22 +29,6 @@ Overview
 .. |codecov| image:: https://codecov.io/gh/DaveFoss/FreeDa/branch/main/graphs/badge.svg?branch=main
     :alt: Coverage Status
     :target: https://app.codecov.io/github/DaveFoss/FreeDa
-
-.. |version| image:: https://img.shields.io/pypi/v/freeda.svg
-    :alt: PyPI Package latest release
-    :target: https://pypi.org/project/freeda
-
-.. |wheel| image:: https://img.shields.io/pypi/wheel/freeda.svg
-    :alt: PyPI Wheel
-    :target: https://pypi.org/project/freeda
-
-.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/freeda.svg
-    :alt: Supported versions
-    :target: https://pypi.org/project/freeda
-
-.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/freeda.svg
-    :alt: Supported implementations
-    :target: https://pypi.org/project/freeda
 
 .. |commits-since| image:: https://img.shields.io/github/commits-since/DaveFoss/FreeDa/v0.0.0.svg
     :alt: Commits since latest release
